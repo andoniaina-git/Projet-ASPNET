@@ -58,6 +58,8 @@ Data/AppDbContext.cs
 Migrations/
  20260507105600_AddEnseigner.cs
  20260507105600_AddEnseigner.Designer.cs
+ 20260507203210_InitialCreate.cs
+ 20260507203210_InitialCreate.Designer.cs
  AppDbContextModelSnapshot.cs
 Models/Entities/
  EDT.cs
