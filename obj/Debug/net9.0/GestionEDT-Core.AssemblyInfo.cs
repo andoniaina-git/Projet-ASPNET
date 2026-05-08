@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestionEDT-Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9983aec3b8c674f5642032f442d915b5e06202a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c1142597c1c43218295127b6997f10279f7d4db")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestionEDT-Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestionEDT-Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
